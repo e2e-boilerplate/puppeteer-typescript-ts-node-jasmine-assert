@@ -12,7 +12,7 @@
   "description": "Puppeteer end-to-end test automation boilerplate. Using TypeScript, ts-node, Jasmine and Assert.",
   "devDependencies": {
     "@types/jasmine": "3.10.6",
-    "@types/node": "13.13.52",
+    "@types/node": "16.11.60",
     "@types/puppeteer": "5.4.6",
     "husky": "6.0.0",
     "lint-staged": "11.2.6",
